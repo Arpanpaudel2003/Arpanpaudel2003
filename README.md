@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there, I'm Arpan Paudel! 👋
 
-<!--
-**Arpanpaudel2003/Arpanpaudel2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer interested in building scalable applications. I'm currently learning **JavaScript** for **React** while improving my **DSA** skills. I mainly work with **Django** and **PostgreSQL**, and I'm also exploring **SaaS development**.
 
-Here are some ideas to get you started:
+### 🚀 Technologies & Tools
+- **Backend**: Django, Django REST Framework (DRF), PostgreSQL
+- **Frontend**: Learning JavaScript, React (soon!)
+- **Other**: Linux (Lubuntu), Git, Docker, Railway
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- React & JavaScript
+- Advanced Django & Deployment Strategies
+- Data Structures & Algorithms
+
+### 🎧 Hobbies & Interests
+- Listening to music
+- Walking while enjoying music
+- Gaming
+- Cooking
+
