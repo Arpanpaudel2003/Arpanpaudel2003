@@ -1,20 +1,23 @@
 ### Hi there, I'm Arpan Paudel! 👋
 
-I'm a backend developer interested in building scalable applications. I'm currently learning **JavaScript** for **React** while improving my **DSA** skills. I mainly work with **Django** and **PostgreSQL**, and I'm also exploring **SaaS development**.
+I'm a backend developer passionate about building scalable and efficient applications. My expertise lies in **Django**, **PostgreSQL**, and **backend architecture**. Currently, I'm expanding my skill set by diving into **JavaScript** and **React**.
 
 ### 🚀 Technologies & Tools
-- **Backend**: Django, Django REST Framework (DRF), PostgreSQL
-- **Frontend**: Learning JavaScript, React (soon!)
-- **Other**: Linux (Lubuntu), Git, Docker, Railway
+- **Backend**: Django, Django REST Framework (DRF), PostgreSQL, Redis
+- **Frontend**: JavaScript (React in progress)
+- **DevOps**: Docker, Nginx, CI/CD Pipelines
+- **Other**: Linux (Lubuntu), Git, API Development
 
 ### 🌱 Currently Learning
-- React & JavaScript
-- Advanced Django & Deployment Strategies
-- Data Structures & Algorithms
+- Advanced system design & scalability strategies
+- React & modern frontend development
+- Optimizing backend performance
 
-### 🎧 Hobbies & Interests
-- Listening to music
-- Walking while enjoying music
-- Gaming
-- Cooking
+### 🏗️ Notable Projects
+- **Django Blog** – A fully functional blog platform with authentication & API support
+- **SaaS Platform** – Work in progress, focusing on scalable architecture
+- **REST API Services** – Robust APIs for various applications
 
+
+---
+⭐ **Tech Enthusiast | Problem Solver | Lifelong Learner**
