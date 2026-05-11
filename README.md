@@ -71,16 +71,6 @@ class ArpanPaudel:
 
 ---
 
-
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake animation](https://raw.githubusercontent.com/Arpanpaudel2003/Arpanpaudel2003/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 <details>
 <summary>⚙️ How to activate the snake</summary>
 
