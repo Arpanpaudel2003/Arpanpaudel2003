@@ -1,17 +1,8 @@
 <div align="center">
 
-```
- █████╗ ██████╗ ██████╗  █████╗ ███╗   ██╗    ██████╗  █████╗ ██╗   ██╗██████╗ ███████╗██╗
-██╔══██╗██╔══██╗██╔══██╗██╔══██╗████╗  ██║    ██╔══██╗██╔══██╗██║   ██║██╔══██╗██╔════╝██║
-███████║██████╔╝██████╔╝███████║██╔██╗ ██║    ██████╔╝███████║██║   ██║██║  ██║█████╗  ██║
-██╔══██║██╔══██╗██╔═══╝ ██╔══██║██║╚██╗██║    ██╔═══╝ ██╔══██║██║   ██║██║  ██║██╔══╝  ██║
-██║  ██║██║  ██║██║     ██║  ██║██║ ╚████║    ██║     ██║  ██║╚██████╔╝██████╔╝███████╗███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a1a2e,100:0d0d1a&height=200&section=header&text=Arpan%20Paudel&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Django%20Specialist&descAlignY=58&descColor=a855f7&animation=fadeIn" width="100%"/>
 
-### Backend Developer · Django Specialist · Lifelong Learner
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Building+scalable+backends+with+Django;PostgreSQL+%26+database+architecture;Exploring+JavaScript+%26+React;Clean+code+%7C+Clean+architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&width=620&lines=🐍+Django+%7C+⚡+FastAPI+%7C+🐘+PostgreSQL;🌐+Building+APIs+that+scale;🔬+Currently+exploring+React+%26+JavaScript;💡+Clean+architecture+%7C+Clean+code;🇳🇵+Building+from+Nepal)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,25 +10,26 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **backend developer** passionate about building **scalable, efficient, and maintainable** applications. My core expertise lies in **Django**, **PostgreSQL**, and backend system design — from crafting clean APIs to optimizing complex database queries.
-
-Currently leveling up: diving into **JavaScript** and **React** to become a more well-rounded full-stack engineer.
-
 ```python
-developer = {
-    "name":        "Arpan Paudel",
-    "role":        "Backend Developer",
-    "core_stack":  ["Django", "PostgreSQL", "Python"],
-    "learning":    ["JavaScript", "React"],
-    "mindset":     "Always building. Always improving.",
-}
+class ArpanPaudel:
+    def __init__(self):
+        self.name        = "Arpan Paudel"
+        self.role        = "Backend Developer"
+        self.location    = "Nepal 🇳🇵"
+        self.core_stack  = ["Django", "PostgreSQL", "Python", "FastAPI"]
+        self.learning    = ["JavaScript", "React", "System Design"]
+        self.interests   = ["Open Source", "Backend Architecture", "3D / Blender"]
+        self.mindset     = "Always building. Always improving."
+
+    def available_for(self):
+        return ["Collaboration", "Open Source", "Freelance Projects"]
 ```
 
 ---
 
 ## 🚀 Tech Stack
 
-### Languages
+### 💬 Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -48,7 +40,7 @@ developer = {
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
+### ⚙️ Frameworks & Libraries
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -57,21 +49,21 @@ developer = {
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Databases
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Apache Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-### Design & Creative Tools
+### 🎨 Design & Creative
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
@@ -83,26 +75,80 @@ developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arpanpaudel2003&theme=darcula&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arpanpaudel2003&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arpanpaudel2003&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpanpaudel2003&theme=darcula&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpanpaudel2003&theme=darcula&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpanpaudel2003&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
 </div>
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Arpanpaudel2003&theme=tokyonight&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake animation](https://raw.githubusercontent.com/Arpanpaudel2003/Arpanpaudel2003/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<details>
+<summary>⚙️ How to activate the snake</summary>
+
+1. In your profile repo (`Arpanpaudel2003/Arpanpaudel2003`), create `.github/workflows/snake.yml`:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. Run the workflow once manually — done!
+
+</details>
+
+---
+
 ## 🌱 Currently
 
-- 🔭 Deepening my knowledge in **backend architecture & system design**
-- 🌱 Learning **React** and modern **JavaScript** patterns
-- 🛠️ Experimenting with **FastAPI** for high-performance APIs
-- 💡 Always open to collaborating on **open source** projects
+| | What | Status |
+|---|------|--------|
+| 🔭 | Backend architecture & system design | In progress |
+| 🌱 | React + modern JavaScript patterns | Learning |
+| 🛠️ | FastAPI for high-performance APIs | Experimenting |
+| 💡 | Open source contributions | Always open |
 
 ---
 
@@ -110,16 +156,18 @@ developer = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Arpanpaudel2003-181717?style=for-the-badge&logo=github)](https://github.com/Arpanpaudel2003)
+[![GitHub](https://img.shields.io/badge/GitHub-Arpanpaudel2003-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpanpaudel2003)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arpanpaudel2003&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
 
-<div align="center">
-  <i>⚡ "First, solve the problem. Then, write the code." — John Johnson</i>
+<img src="https://komarev.com/ghpvc/?username=Arpanpaudel2003&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a1a2e,100:0d0d1a&height=100&section=footer&animation=fadeIn" width="100%"/>
+
 </div>
