@@ -71,30 +71,7 @@ class ArpanPaudel:
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arpanpaudel2003&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arpanpaudel2003&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpanpaudel2003&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Arpanpaudel2003&theme=tokyonight&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
